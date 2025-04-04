@@ -34,7 +34,7 @@ I am an MCA student at **KIIT University**, passionate about programming and lea
 ## 📫 How to reach me ...
 
 - 📧 Email: rahulkumar761001@gmail.com 
-- LinkedIn: [Rahul Kumar](www.linkedin.com/in/rahulkumar0001) 
+- LinkedIn: [Rahul Kumar]((https://www.linkedin.com/in/rahulkumar0001/)
 
 
 ---
