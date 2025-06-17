@@ -65,4 +65,4 @@ A responsive weather app built with React.js and OpenWeatherMap API. Features re
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rahulkumar-mca/)  
 - 🧑‍💻 [GitHub](https://github.com/codexrahulKIIT)  
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile! 
